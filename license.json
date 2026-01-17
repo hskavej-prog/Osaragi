@@ -1,8 +1,8 @@
 {
   "password": "FREEKEY",
   "expire": "2026-03-30 11:59 PM",
-  "used": 1,
-  "max": 3,
+  "used": 5,
+  "max": 15,
   "blocked": true,
   "message": "WALANG FEEDBACK GUSTO LARO"
 }
