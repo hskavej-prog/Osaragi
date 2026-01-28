@@ -1,8 +1,8 @@
 {
   "password": "FREEKEY",
   "expire": "2026-01-29 12:00 AM",
-  "used": 5,
-  "max": 15,
+  "used": 100,
+  "max": 999,
   "blocked":  false,
   "message": "."
 }
