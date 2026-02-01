@@ -1,7 +1,7 @@
 {
   "password": "3DAYSACCESS",
   "expire": "2026-02-04 10:00 AM",
-  "used": 2,
+  "used": 0,
   "max": 2,
   "blocked":  false,
   "message": "."
