@@ -1,7 +1,7 @@
  {
   "OSARAGI": {
     "password": "OSARAGIFREEKEY",
-    "blocked": true,
+    "blocked": false,
     "expire": "2026-02-03 23:59",
     "max": 100,
     "used": 23,
