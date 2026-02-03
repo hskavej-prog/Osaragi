@@ -1,0 +1,26 @@
+{
+  "wrx": {
+    "password": "wrx18",
+    "blocked": false,
+    "expire": "2026-02-03 23:59",
+    "max": 100,
+    "used": 23,
+    "message": "FEEDBACK TANGA"
+  },
+  "osa": {
+    "password": "osa19",
+    "blocked": false,
+    "expire": "2026-02-04 23:59",
+    "max": 50,
+    "used": 0,
+    "message": "WELCOME OSA"
+  },
+  "toji": {
+    "password": "toji20",
+    "blocked": false,
+    "expire": "2026-02-05 23:59",
+    "max": 10,
+    "used": 2,
+    "message": "WELCOME TOJI"
+  }
+}
