@@ -2,7 +2,7 @@
   "OSARAGI": {
     "password": "OSARAGIFREEKEY",
     "blocked": false,
-    "expire": "2026-02-03 23:59",
+    "expire": "2026-03-03 23:59",
     "max": 100,
     "used": 23,
     "message": "FEEDBACK TANGA"
