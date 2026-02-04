@@ -7,10 +7,10 @@
     "used": 23,
     "message": "FEEDBACK TANGA"
   },
-  "osa": {
-    "password": "osa19",
+  "osaragi": {
+    "password": "OSARAGILIFETIME",
     "blocked": false,
-    "expire": "2026-02-04 23:59",
+    "expire": "2026-12-04 23:59",
     "max": 50,
     "used": 0,
     "message": "WELCOME OSA"
