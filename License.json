@@ -3,7 +3,7 @@
     "password": "OSARAGIFREEKEY",
     "blocked": false,
     "expire": "2026-03-03 23:59",
-    "max": 100,
+    "max": 24,
     "used": 23,
     "message": "FEEDBACK TANGA"
   },
