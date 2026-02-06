@@ -1,11 +1,11 @@
  {
   "OSARAGI": {
     "password": "OSARAGIFREEKEY",
-    "blocked": false,
+    "blocked": true,
     "expire": "2026-03-03 23:59",
     "max": 24,
     "used": 23,
-    "message": "FEEDBACK TANGA"
+    "message": "TIME TO BLOCK 3DAYS NYU GINAGAMIT"
   },
   "osaragi": {
     "password": "OSARAGILIFETIME",
