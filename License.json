@@ -15,10 +15,10 @@
     "used": 0,
     "message": "WELCOME OSA"
   },
-  "toji": {
-    "password": "toji20",
+  "Osa": {
+    "password": "3DAYSACCESS",
     "blocked": false,
-    "expire": "2026-02-05 23:59",
+    "expire": "2026-02-10 17:59",
     "max": 10,
     "used": 2,
     "message": "WELCOME TOJI"
