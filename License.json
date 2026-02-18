@@ -1,7 +1,7 @@
  {
   "OPPOSITE": {
     "password": "OPPOSITEFREEKEY",
-    "blocked": false,
+    "blocked":  false,
     "expire": "2026-02-18 23:59",
     "max": 24,
     "used": 23,
