@@ -15,10 +15,10 @@
     "used": 0,
     "message": "WELCOME OSA"
   },
-  "Osa": {
-    "password": "3DAYSACCESS",
+  "opposite": {
+    "password": "OPPOSITEONTOP",
     "blocked": false,
-    "expire": "2026-02-10 17:59",
+    "expire": "2026-02-18 23:59",
     "max": 10,
     "used": 2,
     "message": "WELCOME TOJI"
