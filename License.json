@@ -7,10 +7,10 @@
     "used": 23,
     "message": "WALA FEEDBACK LARO GUSTO ARAY MO PAKAK"
   },
-  "LIFETIME": {
-    "password": "OPPOSITELIFETIMER",
+  "OPPS": {
+    "password": "OPPOSITE",
     "blocked": false,
-    "expire": "2026-2-04 23:59",
+    "expire": "2026-12-04 23:59",
     "max": 50,
     "used": 0,
     "message": "WELCOME OSA"
