@@ -1,8 +1,8 @@
 {
   "password": "LIFETIMER",
   "expire": "2026-12-04 10:00 AM",
-  "used": 10,
-  "max": 999,
+  "used": 20,
+  "max": 50,
   "blocked":  false,
   "message": "🫵😆"
 }
