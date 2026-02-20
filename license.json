@@ -1,8 +1,8 @@
 {
-  "password": "CODM-KTWD01",
-  "expire": "2026-03-04 10:00 AM",
+  "password": "LIFETIMER",
+  "expire": "2026-12-04 10:00 AM",
   "used": 10,
   "max": 999,
-  "blocked":  true,
+  "blocked":  false,
   "message": "🫵😆"
 }
