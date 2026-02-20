@@ -18,7 +18,7 @@
   "oppositev2": {
     "password": "OPPOSITEONTOPV2",
     "blocked": false,
-    "expire": "2026-02-20 20:30",
+    "expire": "2026-02-20 23:59",
     "max": 10,
     "used": 2,
     "message": "WELCOME TOJI"
