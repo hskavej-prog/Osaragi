@@ -10,7 +10,7 @@
   "LIFETIME": {
     "password": "OPPOSITELIFETIMER",
     "blocked": false,
-    "expire": "2026-12-04 23:59",
+    "expire": "2026-2-04 23:59",
     "max": 50,
     "used": 0,
     "message": "WELCOME OSA"
