@@ -2,7 +2,7 @@
   "OPPOSITEONTOP": {
     "password": "OPPOSITEFREEKEY",
     "blocked":  false,
-    "expire": "2026-02-28 23:59",
+    "expire": "2026-03-2 23:59",
     "max": 24,
     "used": 23,
     "message": "WALA FEEDBACK LARO GUSTO ARAY MO PAKAK"
@@ -18,7 +18,7 @@
   "oppositev2": {
     "password": "OPPOSITEONTOPV2",
     "blocked": false,
-    "expire": "2026-02-20 23:59",
+    "expire": "2026-04-1 23:59",
     "max": 10,
     "used": 2,
     "message": "WELCOME TOJI"
