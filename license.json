@@ -1,8 +1,11 @@
 {
   "password": "OPPOSITE",
-  "expire": "2026-12-04 10:00 AM",
-  "used": 20,
+  "expire": "2026-08-17 7:00 PM",
+  "used": 1,
   "max": 50,
-  "blocked":  false,
-  "message": "🫵😆"
+  "blocked": false,
+  "message": "🔥",
+  "devices": [
+    "DEVICE_ID_OR_IP_1"
+  ]
 }
