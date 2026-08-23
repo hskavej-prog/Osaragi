@@ -1,6 +1,6 @@
  {
-  "OPPOSITEONTOP": {
-    "password": "OPPOSITEFREEKEY",
+  "YIROSHIONTOP": {
+    "password": "YIROSHIFREEKEY",
     "blocked":  false,
     "expire": "2026-12-07 23:59",
     "max": 24,
