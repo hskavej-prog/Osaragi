@@ -1,11 +1,23 @@
 {
-  "password": "YIROSHIONTOP",
-  "expire": "2026-08-17 7:00 PM",
-  "used": 1,
-  "max": 50,
-  "blocked": false,
-  "message": "🔥",
-  "devices": [
-    "DEVICE_ID_OR_IP_1"
+  "mod_status": "working",
+  "keys": [
+    {
+      "key": "VIP-KEY-101",
+      "status": "active",
+      "exp": "2026-12-31 23:59:59",
+      "max_dev": 5
+    },
+    {
+      "key": "FREE-KEY-202",
+      "status": "active",
+      "exp": "2026-10-15 12:00:00",
+      "max_dev": 2
+    },
+    {
+      "key": "BANNED-KEY-999",
+      "status": "blocked",
+      "exp": "2026-12-31 23:59:59",
+      "max_dev": 1
+    }
   ]
 }
