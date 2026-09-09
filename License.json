@@ -1,7 +1,7 @@
  {
   "YIROSHIONTOP": {
     "password": "YIROSHIFREEKEY",
-    "blocked":  true,
+    "blocked":  false,
     "expire": "2026-12-07 23:59",
     "max": 24,
     "used": 23,
