@@ -9,7 +9,7 @@
   },
   "YIROSHIVIP": {
     "password": "YIROSHIVIP",
-    "blocked": false,
+    "blocked": true,
     "expire": "2026-12-04 23:59",
     "max": 50,
     "used": 0,
