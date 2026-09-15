@@ -1,15 +1,18 @@
 {
-  "CODM": {
-    "CHRIS-VIP-2026": {
-      "status": false,
-      "data": {
-        "EXP": "2027-12-31",
-        "device": 1
-      }
-    },
-    "CHRIS-VIP-EXPIRED": {
-      "status": false,
-      "reason": "EXPIRED KEY"
-    }
+  "CHRISVIPKEY": {
+    "password": "CHRISVIPKEY",
+    "blocked": false,
+    "expire": "2027-07-20 23:59",
+    "max": 2,
+    "used": 1,
+    "message": "WELCOME CHRIS"
+  },
+  "FREESOURCEKEY": {
+    "password": "FREESOURCEKEY",
+    "blocked": false,
+    "expire": "2026-12-31 23:59",
+    "max": 5,
+    "used": 0,
+    "message": "Play Safe To Avoid Ban."
   }
 }
