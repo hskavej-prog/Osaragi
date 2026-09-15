@@ -1,23 +1,15 @@
 {
-  "mod_status": "working",
-  "keys": [
-    {
-      "key": "VIP-KEY-101",
-      "status": "active",
-      "exp": "2026-12-31 23:59:59",
-      "max_dev": 5
+  "CODM": {
+    "CHRIS-VIP-2026": {
+      "status": true,
+      "data": {
+        "EXP": "2027-12-31",
+        "device": 1
+      }
     },
-    {
-      "key": "FREE-KEY-202",
-      "status": "active",
-      "exp": "2026-10-15 12:00:00",
-      "max_dev": 2
-    },
-    {
-      "key": "BANNED-KEY-999",
-      "status": "blocked",
-      "exp": "2026-12-31 23:59:59",
-      "max_dev": 1
+    "CHRIS-VIP-EXPIRED": {
+      "status": false,
+      "reason": "EXPIRED KEY"
     }
-  ]
+  }
 }
