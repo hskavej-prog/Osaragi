@@ -1,6 +1,6 @@
 {
   "CHRIS-VIP-12345": {
-    "blocked": false,
+    "blocked": true,
     "expire": "2027-12-31",
     "max": 1
   },
