@@ -1,12 +1,12 @@
 {
   "YIROSHI-VIP": {
     "blocked": false,
-    "expire": "2027-12-31",
+    "expire": "2026-09-16",
     "max": 1
   },
-  "SAMPLE-KEY-9999": {
-    "blocked": true,
-    "expire": "2027-08-15",
+  "YIROSHI-VIPKEY": {
+    "blocked": false,
+    "expire": "2026-09-31",
     "max": 2
   },
   "BANNED-KEY-0000": {
