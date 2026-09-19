@@ -10,7 +10,7 @@
     {
       "key": "TES",
       "status": "active",
-      "expiry": "2026-9-31",
+      "expiry": "2026-9-30",
       "max_dev": 2,
       "current_devices": 0
     },
