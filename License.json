@@ -2,7 +2,7 @@
   "keys": [
     {
       "key": "YIRO",
-      "status": "banned",
+      "status": "active",
       "expiry": "2026-12-31",
       "max_dev": 1,
       "current_devices": 0
