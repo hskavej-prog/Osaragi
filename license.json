@@ -1,25 +1,18 @@
 {
-  "keys": [
-    {
-      "key": "YIRO",
-      "status": "banned",
-      "expiry": "2026-12-31",
-      "max_dev": 1,
-      "current_devices": 0
-    },
-    {
-      "key": "TES",
-      "status": "active",
-      "expiry": "2026-11-30",
-      "max_dev": 2,
-      "current_devices": 0
-    },
-    {
-      "key": "KEY",
-      "status": "banned",
-      "expiry": "2026-05-01",
-      "max_dev": 1,
-      "current_devices": 0
-    }
-  ]
+  "YIROSHI-VIP": {
+    "blocked": false,
+    "expire": "2026-09-16",
+    "expire": "2026-09-15",
+    "max": 1
+  },
+  "YIROSHI-VIPKEY": {
+    "blocked": false,
+    "expire": "2026-09-31",
+    "max": 2
+  },
+  "BANNED-KEY-0000": {
+    "blocked": true,
+    "expire": "2027-01-01",
+    "max": 1
+  }
 }
