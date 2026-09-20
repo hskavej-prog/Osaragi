@@ -15,9 +15,9 @@
       "current_devices": 0
     },
     {
-      "key": "KEY",
-      "status": "banned",
-      "expiry": "2026-05-01",
+      "key": "LIFETIMEKEY",
+      "status": "active",
+      "expiry": "2026-12-31",
       "max_dev": 1,
       "current_devices": 0
     }
