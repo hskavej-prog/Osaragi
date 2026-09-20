@@ -1,9 +1,9 @@
 {
   "keys": [
     {
-      "key": "YIR",
+      "key": "YIROSHIONTOP",
       "status": "active",
-      "expiry": "2026-12-31",
+      "expiry": "2026-09-30",
       "max_dev": 1,
       "current_devices": 0
     },
