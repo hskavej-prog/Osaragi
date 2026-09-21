@@ -3,12 +3,12 @@
     {
       "key": "YIROSHIFREEKEY",
       "status": "active",
-      "expiry": "2026-09-30",
-      "max_dev": 1,
+      "expiry": "2026-11-1",
+      "max_dev": 100,
       "current_devices": 0
     },
     {
-      "key": "TES",
+      "key": "LIFETIMEVIP",
       "status": "active",
       "expiry": "2026-9-30",
       "max_dev": 2,
