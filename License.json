@@ -1,7 +1,7 @@
 {
   "keys": [
     {
-      "key": "YIROSHI",
+      "key": "FREEKEY",
       "status": "banned",
       "expiry": "2026-11-1",
       "max_dev": 100,
@@ -15,7 +15,7 @@
       "current_devices": 0
     },
     {
-      "key": "LIFETI",
+      "key": "BULOK",
       "status": "active",
       "expiry": "2026-12-31",
       "max_dev": 1,
