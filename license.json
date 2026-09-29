@@ -10,7 +10,7 @@
     "max": 2
   },
   "BANNED-KEY-0000": {
-    "blocked": true,
+    "blocked": false,
     "expire": "2027-01-01",
     "max": 1
   }
