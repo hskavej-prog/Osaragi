@@ -1,16 +1,16 @@
 {
   "keys": [
     {
-      "key": "VIPKEY",
+      "key": "YIROVIPKEY",
       "status": "active",
-      "expiry": "2026-10-10",
+      "expiry": "2026-11-02",
       "max_dev": 100,
       "current_devices": 0
     },
     {
-      "key": "LIFETIMEVIP",
+      "key": "YIROLIFETIMEVIP",
       "status": "active",
-      "expiry": "2026-9-30",
+      "expiry": "2026-12-30",
       "max_dev": 2,
       "current_devices": 0
     },
