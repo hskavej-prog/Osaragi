@@ -1,9 +1,9 @@
 {
   "keys": [
     {
-      "key": "YIROVIPKEY",
+      "key": "VIPKEY",
       "status": "active",
-      "expiry": "2026-10-19",
+      "expiry": "2026-10-21",
       "max_dev": 100,
       "current_devices": 0
     },
