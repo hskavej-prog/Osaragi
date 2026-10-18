@@ -18,7 +18,7 @@
       "key": "FREEKEY",
       "status": "active",
       "expiry": "2026-10-20",
-      "max_dev": 1,
+      "max_dev": 100,
       "current_devices": 0
     }
   ]
