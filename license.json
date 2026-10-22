@@ -1,10 +1,10 @@
 {
-  "YIROSHI-VIP": {
+  "OPPOSITE": {
     "blocked": false,
     "expire": "2026-12-16",
     "max": 1
   },
-  "YIROSHI-VIPKEY": {
+  "LIFETIMER": {
     "blocked": false,
     "expire": "2026-09-31",
     "max": 2
