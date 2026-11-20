@@ -8,10 +8,10 @@
     "used": 23,
     "message": "𝑾𝑬𝑳𝑪𝑶𝑴𝑬 𝑻𝑶 𝑶𝑴𝑬𝑮𝑨"
   },
-  "OPPOSITE01": {
+  "OPPOSITE": {
     "password": "OPPOSITE",
     "blocked": false,
-    "expire": "2026-12-04 23:59",
+    "expire": "2026-11-04 23:59",
     "max": 50,
     "used": 0,
     "message": "WELCOME TO YIROSHI"
