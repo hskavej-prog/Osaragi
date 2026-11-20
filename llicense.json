@@ -1,20 +1,27 @@
+
 {
-  "YIRO": {
+  "OPPOSITEONTOP": {
+    "password": "OPPOSITEFREEKEY",
     "blocked": false,
-    "expire": "2026-12-07 23:59:59",
+    "expire": "2026-12-04 23:59",
     "max": 24,
-    "message": "WALA FEEDBACK LARO GUSTO ARAY MO PAKAK"
+    "used": 23,
+    "message": "WELCOME OSA"
   },
-  "YIROSHIVIP": {
-    "blocked": true,
-    "expire": "2026-12-04 23:59:59",
+  "OPPOSITE01": {
+    "password": "OPPOSITE",
+    "blocked": false,
+    "expire": "2026-12-04 23:59",
     "max": 50,
-    "message": "KEY IS BLOCKED BY ADMIN"
+    "used": 0,
+    "message": "WELCOME TO YIROSHI"
   },
   "oppositev2": {
+    "password": "OPPOSITEONTOPV2",
     "blocked": false,
-    "expire": "2026-02-02 23:59:59",
+    "expire": "2026-12-04 23:59",
     "max": 10,
+    "used": 2,
     "message": "WELCOME TOJI"
   }
 }
