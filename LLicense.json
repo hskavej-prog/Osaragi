@@ -1,12 +1,12 @@
 
 {
-  "OMEGAFREE": {
-    "password": "OMEGAFREEKEY",
+  "OMEGALIFETIME": {
+    "password": "OMEGALIFETIME",
     "blocked": false,
     "expire": "2027-12-04 23:59",
     "max": 24,
     "used": 23,
-    "message": "𝑩𝑳𝑶𝑪𝑲𝑬𝑫 𝑲𝑼𝑵𝑨 𝑲𝑬𝒀 𝑫𝑰 𝑵𝑨𝑴𝑨𝑵 𝑲𝑨𝒀𝑶 𝑵𝑨𝑮 𝑭𝑭𝑬𝑫𝑩𝑨𝑪𝑲"
+    "message": "WELCOME AND ENJOY 🫶"
   },
   "OPPOSITE": {
     "password": "OPPOSITE",
