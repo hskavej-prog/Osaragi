@@ -1,8 +1,8 @@
 
 {
-  "OPPOSITEONTOP": {
-    "password": "OPPOSITEFREEKEY",
-    "blocked": true,
+  "OMEGAFREE": {
+    "password": "OMEGAFREEKEY",
+    "blocked": false,
     "expire": "2027-12-04 23:59",
     "max": 24,
     "used": 23,
