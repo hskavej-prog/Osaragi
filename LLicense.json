@@ -1,0 +1,27 @@
+
+{
+  "OMEGAFREE": {
+    "password": "OMEGAFREEKEY",
+    "blocked": false,
+    "expire": "2027-12-04 23:59",
+    "max": 24,
+    "used": 23,
+    "message": "𝑩𝑳𝑶𝑪𝑲𝑬𝑫 𝑲𝑼𝑵𝑨 𝑲𝑬𝒀 𝑫𝑰 𝑵𝑨𝑴𝑨𝑵 𝑲𝑨𝒀𝑶 𝑵𝑨𝑮 𝑭𝑭𝑬𝑫𝑩𝑨𝑪𝑲"
+  },
+  "OPPOSITE": {
+    "password": "OPPOSITE",
+    "blocked": false,
+    "expire": "2026-11-04 23:59",
+    "max": 50,
+    "used": 0,
+    "message": "WELCOME TO YIROSHI"
+  },
+  "oppositev2": {
+    "password": "OPPOSITEONTOPV2",
+    "blocked": false,
+    "expire": "2026-12-04 23:59",
+    "max": 10,
+    "used": 2,
+    "message": "WELCOME TOJI"
+  }
+}
